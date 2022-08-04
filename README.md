@@ -1,4 +1,4 @@
-Multi-user telegram-bot for quick download of photo albums and documents from the user's account in VK cloud storage Yandex Disk drive (Google Drive is not yet implemented) and for download videos from YouTube.
+Telegram bot for quick download of photo albums and documents from the user's account in VK cloud storage Yandex Disk drive (Google Drive is not yet implemented) and for download videos from YouTube.
 
 [@MediaDownloaderPy_Bot](https://t.me/MediaDownloaderPy_Bot)
 
